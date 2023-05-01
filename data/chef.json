@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "picture": "https://i.ibb.co/PDTB5Vk/chef.jpg",
+        "name": "Ranveer Brar",
+        "experience": 20,
+        "recipes": 100,
+        "likes": 5000
+    },
+    {
+        "id": 2,
+        "picture": "https://i.ibb.co/PDTB5Vk/chef.jpg",
+        "name": "Sanjeev Kapoor",
+        "experience": 30,
+        "recipes": 200,
+        "likes": 10000
+    },
+    {
+        "id": 3,
+        "picture": "https://i.ibb.co/PDTB5Vk/chef.jpg",
+        "name": "Vikas Khanna",
+        "experience": 25,
+        "recipes": 150,
+        "likes": 8000
+    },
+    {
+        "id": 4,
+        "picture": "https://i.ibb.co/PDTB5Vk/chef.jpg",
+        "name": "Kunal Kapur",
+        "experience": 15,
+        "recipes": 75,
+        "likes": 3000
+    },
+    {
+        "id": 5,
+        "picture": "https://i.ibb.co/PDTB5Vk/chef.jpg",
+        "name": "Madhur Jaffrey",
+        "experience": 40,
+        "recipes": 300,
+        "likes": 12000
+    },
+    {
+        "id": 6,
+        "picture": "https://i.ibb.co/PDTB5Vk/chef.jpg",
+        "name": "Harpal Singh Sokhi",
+        "experience": 18,
+        "recipes": 90,
+        "likes": 4000
+    },
+    {
+        "id": 7,
+        "picture": "https://i.ibb.co/PDTB5Vk/chef.jpg",
+        "name": "Shipra Khanna",
+        "experience": 12,
+        "recipes": 60,
+        "likes": 2500
+    },
+    {
+        "id": 8,
+        "picture": "https://i.ibb.co/PDTB5Vk/chef.jpg",
+        "name": "Ajay Chopra",
+        "experience": 17,
+        "recipes": 80,
+        "likes": 3500
+    },
+    {
+        "id": 9,
+        "picture": "https://i.ibb.co/PDTB5Vk/chef.jpg",
+        "name": "Atul Kochhar",
+        "experience": 22,
+        "recipes": 120,
+        "likes": 6000
+    },
+    {
+        "id": 10,
+        "picture": "hhttps://i.ibb.co/PDTB5Vk/chef.jpg",
+        "name": "Manish Mehrotra",
+        "experience": 14,
+        "recipes": 70,
+        "likes": 3200
+    }
+]
