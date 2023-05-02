@@ -5,7 +5,8 @@
         "name": "Ranveer Brar",
         "experience": 20,
         "recipes": 100,
-        "likes": 5000
+        "likes": 5000,
+        "desc": "Ranveer Brar - With over 20 years of culinary experience, Ranveer Brar is a well-known chef in India and abroad. He has hosted several cooking shows and authored several cookbooks."
     },
     {
         "id": 2,
@@ -13,7 +14,8 @@
         "name": "Sanjeev Kapoor",
         "experience": 30,
         "recipes": 200,
-        "likes": 10000
+        "likes": 1000,
+        "desc": "Sanjeev Kapoor - Sanjeev Kapoor is a celebrity chef, author, and television host. He is known for his popular cooking show Khana Khazana, which has been running for over two decades. He has also authored over 150 cookbooks and is considered one of the most prominent chefs in India."
     },
     {
         "id": 3,
@@ -21,7 +23,8 @@
         "name": "Vikas Khanna",
         "experience": 25,
         "recipes": 150,
-        "likes": 8000
+        "likes": 8000,
+        "desc": "Vikas Khanna - Vikas Khanna is an award-winning chef, restaurateur, and cookbook author. He has cooked for several world leaders and celebrities, including former US President Barack Obama and Queen Elizabeth II. He is also known for his philanthropic work, including his Feed India initiative during the COVID-19 pandemic."
     },
     {
         "id": 4,
@@ -29,7 +32,8 @@
         "name": "Kunal Kapur",
         "experience": 15,
         "recipes": 75,
-        "likes": 3000
+        "likes": 3000,
+        "desc": "Kunal Kapur - Kunal Kapur is a chef, restaurateur, and television personality. He has authored several cookbooks and has been a judge on several cooking reality shows."
     },
     {
         "id": 5,
@@ -37,7 +41,8 @@
         "name": "Madhur Jaffrey",
         "experience": 40,
         "recipes": 300,
-        "likes": 12000
+        "likes": 1200,
+        "desc": "Madhur Jaffrey - Madhur Jaffrey is an actress, author, and television personality. She is known for introducing Indian cuisine to the western world through her cookbooks and television shows. She has also acted in several films and TV shows, including The Simpsons."
     },
     {
         "id": 6,
@@ -45,7 +50,8 @@
         "name": "Harpal Singh Sokhi",
         "experience": 18,
         "recipes": 90,
-        "likes": 4000
+        "likes": 4000,
+        "desc": "Harpal Singh Sokhi - Harpal Singh Sokhi is a chef, restaurateur, and television personality. He is known for his energetic personality and has hosted several cooking shows on Indian television."
     },
     {
         "id": 7,
@@ -53,7 +59,8 @@
         "name": "Shipra Khanna",
         "experience": 12,
         "recipes": 60,
-        "likes": 2500
+        "likes": 2500,
+        "desc": "Ranveer Brar - With over 20 years of culinary experience, Ranveer Brar is a well-known chef in India and abroad. He has hosted several cooking shows and authored several cookbooks."
     },
     {
         "id": 8,
@@ -61,7 +68,8 @@
         "name": "Ajay Chopra",
         "experience": 17,
         "recipes": 80,
-        "likes": 3500
+        "likes": 3500,
+        "desc": "Ranveer Brar - With over 20 years of culinary experience, Ranveer Brar is a well-known chef in India and abroad. He has hosted several cooking shows and authored several cookbooks."
     },
     {
         "id": 9,
@@ -69,14 +77,16 @@
         "name": "Atul Kochhar",
         "experience": 22,
         "recipes": 120,
-        "likes": 6000
+        "likes": 6000,
+        "desc": "Ranveer Brar - With over 20 years of culinary experience, Ranveer Brar is a well-known chef in India and abroad. He has hosted several cooking shows and authored several cookbooks."
     },
     {
         "id": 10,
-        "picture": "hhttps://i.ibb.co/PDTB5Vk/chef.jpg",
+        "picture": "https://i.ibb.co/PDTB5Vk/chef.jpg",
         "name": "Manish Mehrotra",
         "experience": 14,
         "recipes": 70,
-        "likes": 3200
+        "likes": 3200,
+        "desc": "Ranveer Brar - With over 20 years of culinary experience, Ranveer Brar is a well-known chef in India and abroad. He has hosted several cooking shows and authored several cookbooks."
     }
 ]

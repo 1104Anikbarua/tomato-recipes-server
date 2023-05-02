@@ -8,9 +8,17 @@ app.use(cors());
 const chefs = require('./data/chef.json')
 
 // get chef data 
-
 app.get('/info', (req, res) => {
     res.send(chefs)
+})
+
+// get chef data by id 
+app.get('/recipes/:id', (req, res) => {
+    const id = parseInt(req.params.id);
+    // console.log(id)
+    const searchChef = chefs?.find((chef) => chef?.id === id)
+    // console.log(searchChef)
+    res.send(searchChef)
 })
 
 
