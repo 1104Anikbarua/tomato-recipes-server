@@ -77,7 +77,7 @@
     },
     {
         "id": 2,
-        "picture": "https: //i.ibb.co/3BV7RH5/chef-2.jpg",
+        "picture": "https://i.ibb.co/3BV7RH5/chef-2.jpg",
         "name": "Sanjeev Kapoor",
         "experience": 30,
         "recipes": 200,
@@ -305,7 +305,7 @@
     },
     {
         "id": 5,
-        "picture": "https: //i.ibb.co/7Jt3QJm/chef-5.jpg",
+        "picture": "https://i.ibb.co/7Jt3QJm/chef-5.jpg",
         "name": "Madhur Jaffrey",
         "experience": 40,
         "recipes": 300,
