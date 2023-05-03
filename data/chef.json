@@ -89,73 +89,117 @@
         "recipeDetail": [
             {
                 "id": 1,
-                "image": "https://i.ibb.co/TwdsdgV/biriyani.jpg",
-                "name": "Butter Chicken",
+                "name": "Vada Pav",
+                "image": "https://i.ibb.co/5WtG7C7/vadapav.jpg",
+                "method": "Deep-frying the potato fritters and assembling the sandwich",
                 "ingredients": [
-                    "Chicken",
-                    "Tomatoes",
-                    "Butter",
-                    "Cream",
-                    "Spices"
+                    "Potatoes",
+                    "Gram flour",
+                    "Green chili",
+                    "Ginger",
+                    "Garlic",
+                    "Turmeric powder",
+                    "Cumin seeds",
+                    "Coriander leaves",
+                    "Bread buns",
+                    "Chutney",
+                    "Oil",
+                    "Salt"
                 ],
-                "method": "Marinate chicken in yogurt and spices. Cook chicken in butter and add pureed tomatoes and more spices. Add cream and serve.",
-                "rating": 4.8
-            },
-            {
-                "id": 2,
-                "image": "https://i.ibb.co/93szKct/butter.jpg",
-                "name": "Palak Paneer",
-                "ingredients": [
-                    "Spinach",
-                    "Paneer",
-                    "Onion",
-                    "Tomato",
-                    "Spices"
-                ],
-                "method": "Blanch spinach and puree. Cook onions and tomatoes with spices. Add spinach and paneer and simmer.",
                 "rating": 4.5
             },
             {
-                "id": 3,
-                "image": "https://i.ibb.co/BfCtKz8/chole.jpg",
-                "name": "Chole Bhature",
+                "id": 2,
+                "name": "Pav Bhaji",
+                "image": "https://i.ibb.co/YN6b7s2/pav.jpg",
+                "method": "Cooking and mashing the vegetables, and serving with buttered bread rolls",
                 "ingredients": [
-                    "Chickpeas",
+                    "Potatoes",
+                    "Tomatoes",
+                    "Peas",
+                    "Bell peppers",
                     "Onion",
-                    "Tomato",
-                    "Spices",
-                    "Flour"
+                    "Garlic",
+                    "Ginger",
+                    "Green chili",
+                    "Cumin seeds",
+                    "Coriander powder",
+                    "Turmeric powder",
+                    "Pav bread",
+                    "Butter",
+                    "Lemon juice",
+                    "Coriander leaves",
+                    "Salt"
                 ],
-                "method": "Soak chickpeas and cook with onions, tomatoes and spices. Make dough with flour and water and fry into bhature.",
+                "rating": 4.4
+            },
+            {
+                "id": 3,
+                "name": "Rajma Chawal",
+                "image": "https://i.ibb.co/Jp78xsd/rajma-chawal.jpg",
+                "method": "Soaking and boiling the kidney beans, and serving with steamed rice",
+                "ingredients": [
+                    "Kidney beans",
+                    "Onion",
+                    "Tomatoes",
+                    "Garlic",
+                    "Ginger",
+                    "Green chili",
+                    "Cumin seeds",
+                    "Coriander powder",
+                    "Turmeric powder",
+                    "Garam masala",
+                    "Cinnamon",
+                    "Bay leaves",
+                    "Rice",
+                    "Oil",
+                    "Coriander leaves",
+                    "Salt"
+                ],
                 "rating": 4.2
             },
             {
                 "id": 4,
-                "image": "https://i.ibb.co/2d9hGCR/palak.jpg",
-                "name": "Biryani",
+                "name": "Paneer Butter Masala",
+                "image": "https://i.ibb.co/SN2jV9n/paneerbuttermasala.jpg",
+                "method": "Sauteing the onions and tomatoes, and simmering the paneer in the gravy",
                 "ingredients": [
-                    "Rice",
-                    "Chicken",
+                    "Paneer",
                     "Onion",
-                    "Tomato",
-                    "Spices"
+                    "Tomatoes",
+                    "Garlic",
+                    "Ginger",
+                    "Green chili",
+                    "Cumin seeds",
+                    "Coriander powder",
+                    "Turmeric powder",
+                    "Kashmiri red chili powder",
+                    "Kasuri methi",
+                    "Butter",
+                    "Cream",
+                    "Coriander leaves",
+                    "Salt"
                 ],
-                "method": "Cook rice separately. Cook chicken with onions, tomatoes and spices. Layer rice and chicken and bake.",
-                "rating": 4.6
+                "rating": 4.3
             },
             {
                 "id": 5,
-                "image": "https://i.ibb.co/b5MCG4y/samossa.jpg",
-                "name": "Samosa",
+                "name": "Baingan Bharta",
+                "image": "https://i.ibb.co/w48V6sx/bainjanbhatha.jpg",
+                "method": "Roasting",
                 "ingredients": [
-                    "Potatoes",
-                    "Peas",
-                    "Spices",
-                    "Flour",
-                    "Oil"
+                    "Eggplant",
+                    "Tomato",
+                    "Onion",
+                    "Ginger-garlic paste",
+                    "Green chili",
+                    "Cumin seeds",
+                    "Coriander powder",
+                    "Turmeric powder",
+                    "Garam masala",
+                    "Salt"
                 ],
-                "method": "Make dough with flour and water. Cook potatoes and peas with spices. Stuff dough with filling and fry into samosas.",
-                "rating": 4.3
+                "rating": 4.0
             }
         ],
         "likes": 1000,
@@ -170,73 +214,109 @@
         "recipeDetail": [
             {
                 "id": 1,
-                "image": "https://i.ibb.co/TwdsdgV/biriyani.jpg",
-                "name": "Butter Chicken",
+                "name": "Rasgulla",
+                "image": "https://i.ibb.co/t2jbwMj/rosgolla.jpg",
+                "method": "Boiling the cheese balls in sugar syrup",
                 "ingredients": [
-                    "Chicken",
-                    "Tomatoes",
-                    "Butter",
-                    "Cream",
-                    "Spices"
-                ],
-                "method": "Marinate chicken in yogurt and spices. Cook chicken in butter and add pureed tomatoes and more spices. Add cream and serve.",
-                "rating": 4.8
-            },
-            {
-                "id": 2,
-                "image": "https://i.ibb.co/93szKct/butter.jpg",
-                "name": "Palak Paneer",
-                "ingredients": [
-                    "Spinach",
                     "Paneer",
-                    "Onion",
-                    "Tomato",
-                    "Spices"
+                    "Sugar",
+                    "Water",
+                    "Rose water",
+                    "Cardamom powder"
                 ],
-                "method": "Blanch spinach and puree. Cook onions and tomatoes with spices. Add spinach and paneer and simmer.",
                 "rating": 4.5
             },
             {
-                "id": 3,
-                "image": "https://i.ibb.co/BfCtKz8/chole.jpg",
-                "name": "Chole Bhature",
+                "id": 2,
+                "name": "Malai Kofta",
+                "image": "https://i.ibb.co/gSY9gVX/malaikorfa.jpg",
+                "method": "Making the koftas from mashed potatoes and paneer, and simmering them in a creamy tomato-based gravy",
                 "ingredients": [
-                    "Chickpeas",
+                    "Potatoes",
+                    "Paneer",
                     "Onion",
-                    "Tomato",
-                    "Spices",
-                    "Flour"
+                    "Tomatoes",
+                    "Garlic",
+                    "Ginger",
+                    "Green chili",
+                    "Cumin seeds",
+                    "Coriander powder",
+                    "Turmeric powder",
+                    "Kashmiri red chili powder",
+                    "Cashews",
+                    "Cream",
+                    "Coriander leaves",
+                    "Oil",
+                    "Salt"
                 ],
-                "method": "Soak chickpeas and cook with onions, tomatoes and spices. Make dough with flour and water and fry into bhature.",
+                "rating": 4.4
+            },
+            {
+                "id": 3,
+                "name": "Dum Aloo",
+                "image": "https://i.ibb.co/ngTyjjd/dumalo.jpg",
+                "method": "Par-boiling and deep-frying the baby potatoes, and simmering them in a spiced tomato-based gravy",
+                "ingredients": [
+                    "Baby potatoes",
+                    "Onion",
+                    "Tomatoes",
+                    "Garlic",
+                    "Ginger",
+                    "Green chili",
+                    "Cumin seeds",
+                    "Coriander powder",
+                    "Turmeric powder",
+                    "Kashmiri red chili powder",
+                    "Garam masala",
+                    "Yogurt",
+                    "Coriander leaves",
+                    "Oil",
+                    "Salt"
+                ],
                 "rating": 4.2
             },
             {
                 "id": 4,
-                "image": "https://i.ibb.co/2d9hGCR/palak.jpg",
-                "name": "Biryani",
-                "ingredients": [
-                    "Rice",
-                    "Chicken",
-                    "Onion",
-                    "Tomato",
-                    "Spices"
-                ],
-                "method": "Cook rice separately. Cook chicken with onions, tomatoes and spices. Layer rice and chicken and bake.",
-                "rating": 4.6
-            },
-            {
-                "id": 5,
-                "image": "https://i.ibb.co/b5MCG4y/samossa.jpg",
-                "name": "Samosa",
+                "name": "Aloo Matar",
+                "image": "https://i.ibb.co/frV7MV5/allomartar.jpg",
+                "method": "Sauteing the potatoes and peas with spices, and simmering them in a tomato-based gravy",
                 "ingredients": [
                     "Potatoes",
                     "Peas",
-                    "Spices",
-                    "Flour",
-                    "Oil"
+                    "Onion",
+                    "Tomatoes",
+                    "Garlic",
+                    "Ginger",
+                    "Green chili",
+                    "Cumin seeds",
+                    "Coriander powder",
+                    "Turmeric powder",
+                    "Kashmiri red chili powder",
+                    "Garam masala",
+                    "Coriander leaves",
+                    "Oil",
+                    "Salt"
                 ],
-                "method": "Make dough with flour and water. Cook potatoes and peas with spices. Stuff dough with filling and fry into samosas.",
                 "rating": 4.3
+            },
+            {
+                "id": 5,
+                "name": "Aloo Gobi",
+                "image": "https://i.ibb.co/nBqqmbX/allogobi.jpg",
+                "method": "Stir-frying",
+                "ingredients": [
+                    "Potatoes",
+                    "Cauliflower",
+                    "Onion",
+                    "Tomato",
+                    "Ginger-garlic paste",
+                    "Turmeric powder",
+                    "Cumin seeds",
+                    "Coriander powder",
+                    "Garam masala",
+                    "Salt"
+                ],
+                "rating": 4.2
             }
         ],
         "likes": 8000,
@@ -251,73 +331,111 @@
         "recipeDetail": [
             {
                 "id": 1,
-                "image": "https://i.ibb.co/TwdsdgV/biriyani.jpg",
-                "name": "Butter Chicken",
+                "name": "Sarson ka Saag",
+                "image": "https://i.ibb.co/qxCrx3s/Sarson-ka-Saag.jpg",
+                "method": "Cooking and mashing mustard greens and spinach with spices",
                 "ingredients": [
-                    "Chicken",
+                    "Mustard greens",
+                    "Spinach",
+                    "Onion",
                     "Tomatoes",
+                    "Garlic",
+                    "Ginger",
+                    "Green chili",
+                    "Cumin seeds",
+                    "Coriander powder",
+                    "Turmeric powder",
+                    "Garam masala",
                     "Butter",
-                    "Cream",
-                    "Spices"
+                    "Makki di roti",
+                    "Salt"
                 ],
-                "method": "Marinate chicken in yogurt and spices. Cook chicken in butter and add pureed tomatoes and more spices. Add cream and serve.",
-                "rating": 4.8
+                "rating": 4.2
             },
             {
                 "id": 2,
-                "image": "https://i.ibb.co/93szKct/butter.jpg",
-                "name": "Palak Paneer",
+                "name": "Prawn Curry",
+                "image": "https://i.ibb.co/XskgnSc/Prawn-Curry.jpg",
+                "method": "Cooking prawns in a spicy coconut milk-based gravy",
                 "ingredients": [
-                    "Spinach",
-                    "Paneer",
+                    "Prawns",
                     "Onion",
-                    "Tomato",
-                    "Spices"
+                    "Tomatoes",
+                    "Coconut milk",
+                    "Garlic",
+                    "Ginger",
+                    "Green chili",
+                    "Cumin seeds",
+                    "Coriander powder",
+                    "Turmeric powder",
+                    "Garam masala",
+                    "Curry leaves",
+                    "Oil",
+                    "Coriander leaves",
+                    "Salt"
                 ],
-                "method": "Blanch spinach and puree. Cook onions and tomatoes with spices. Add spinach and paneer and simmer.",
                 "rating": 4.5
             },
             {
                 "id": 3,
-                "image": "https://i.ibb.co/BfCtKz8/chole.jpg",
-                "name": "Chole Bhature",
+                "name": "Mutton Rogan Josh",
+                "image": "https://i.ibb.co/xD2zBBK/Mutton-Rogan-Josh.jpg",
+                "method": "Cooking mutton in a spicy yogurt-based gravy",
                 "ingredients": [
-                    "Chickpeas",
+                    "Mutton",
                     "Onion",
-                    "Tomato",
-                    "Spices",
-                    "Flour"
+                    "Tomatoes",
+                    "Yogurt",
+                    "Garlic",
+                    "Ginger",
+                    "Kashmiri red chili powder",
+                    "Fennel powder",
+                    "Cumin powder",
+                    "Cardamom",
+                    "Cinnamon",
+                    "Cloves",
+                    "Oil",
+                    "Coriander leaves",
+                    "Salt"
                 ],
-                "method": "Soak chickpeas and cook with onions, tomatoes and spices. Make dough with flour and water and fry into bhature.",
-                "rating": 4.2
+                "rating": 4.4
             },
             {
                 "id": 4,
-                "image": "https://i.ibb.co/2d9hGCR/palak.jpg",
-                "name": "Biryani",
+                "name": "Fish Fry",
+                "image": "https://i.ibb.co/XzJWzwh/Fish-Fry.jpg",
+                "method": "Marinating and frying fish with spices",
                 "ingredients": [
-                    "Rice",
-                    "Chicken",
-                    "Onion",
-                    "Tomato",
-                    "Spices"
+                    "Fish fillets",
+                    "Lemon juice",
+                    "Ginger-garlic paste",
+                    "Turmeric powder",
+                    "Kashmiri red chili powder",
+                    "Cumin powder",
+                    "Coriander powder",
+                    "Garam masala",
+                    "Rice flour",
+                    "Oil",
+                    "Coriander leaves",
+                    "Salt"
                 ],
-                "method": "Cook rice separately. Cook chicken with onions, tomatoes and spices. Layer rice and chicken and bake.",
-                "rating": 4.6
+                "rating": 4.3
             },
             {
                 "id": 5,
-                "image": "https://i.ibb.co/b5MCG4y/samossa.jpg",
-                "name": "Samosa",
+                "name": "Aloo Tikki",
+                "image": "https://i.ibb.co/4Jgxq6D/allotikki.jpg",
+                "method": "Shallow-frying",
                 "ingredients": [
                     "Potatoes",
-                    "Peas",
-                    "Spices",
-                    "Flour",
-                    "Oil"
+                    "Bread crumbs",
+                    "Green peas",
+                    "Green chili",
+                    "Cumin seeds",
+                    "Coriander leaves",
+                    "Salt"
                 ],
-                "method": "Make dough with flour and water. Cook potatoes and peas with spices. Stuff dough with filling and fry into samosas.",
-                "rating": 4.3
+                "rating": 4.2
             }
         ],
         "likes": 3000,
@@ -656,76 +774,91 @@
         "recipeDetail": [
             {
                 "id": 1,
-                "image": "https://i.ibb.co/TwdsdgV/biriyani.jpg",
-                "name": "Butter Chicken",
+                "name": "Aloo Gobi",
+                "image": "https://i.ibb.co/nBqqmbX/allogobi.jpg",
+                "method": "Stir-frying",
                 "ingredients": [
-                    "Chicken",
-                    "Tomatoes",
-                    "Butter",
-                    "Cream",
-                    "Spices"
-                ],
-                "method": "Marinate chicken in yogurt and spices. Cook chicken in butter and add pureed tomatoes and more spices. Add cream and serve.",
-                "rating": 4.8
-            },
-            {
-                "id": 2,
-                "image": "https://i.ibb.co/93szKct/butter.jpg",
-                "name": "Palak Paneer",
-                "ingredients": [
-                    "Spinach",
-                    "Paneer",
+                    "Potatoes",
+                    "Cauliflower",
                     "Onion",
                     "Tomato",
-                    "Spices"
+                    "Ginger-garlic paste",
+                    "Turmeric powder",
+                    "Cumin seeds",
+                    "Coriander powder",
+                    "Garam masala",
+                    "Salt"
                 ],
-                "method": "Blanch spinach and puree. Cook onions and tomatoes with spices. Add spinach and paneer and simmer.",
-                "rating": 4.5
-            },
-            {
-                "id": 3,
-                "image": "https://i.ibb.co/BfCtKz8/chole.jpg",
-                "name": "Chole Bhature",
-                "ingredients": [
-                    "Chickpeas",
-                    "Onion",
-                    "Tomato",
-                    "Spices",
-                    "Flour"
-                ],
-                "method": "Soak chickpeas and cook with onions, tomatoes and spices. Make dough with flour and water and fry into bhature.",
                 "rating": 4.2
             },
             {
-                "id": 4,
-                "image": "https://i.ibb.co/2d9hGCR/palak.jpg",
-                "name": "Biryani",
+                "id": 2,
+                "name": "Aloo Tikki",
+                "image": "https://i.ibb.co/4Jgxq6D/allotikki.jpg",
+                "method": "Shallow-frying",
+                "ingredients": [
+                    "Potatoes",
+                    "Bread crumbs",
+                    "Green peas",
+                    "Green chili",
+                    "Cumin seeds",
+                    "Coriander leaves",
+                    "Salt"
+                ],
+                "rating": 4.2
+            },
+            {
+                "id": 3,
+                "name": "Dosa",
+                "image": "https://i.ibb.co/D5VTsC1/dosa.jpg",
+                "method": "Fermenting and pan-frying",
                 "ingredients": [
                     "Rice",
-                    "Chicken",
+                    "Urad dal",
+                    "Fenugreek seeds",
+                    "Water",
+                    "Salt"
+                ],
+                "rating": 4.3
+            },
+            {
+                "id": 4,
+                "name": "Chana Dal",
+                "image": "https://i.ibb.co/SBddXmb/chanadal.jpg",
+                "method": "Pressure cooking",
+                "ingredients": [
+                    "Split Bengal gram",
                     "Onion",
                     "Tomato",
-                    "Spices"
+                    "Ginger-garlic paste",
+                    "Green chili",
+                    "Cumin seeds",
+                    "Coriander powder",
+                    "Turmeric powder",
+                    "Garam masala",
+                    "Salt"
                 ],
-                "method": "Cook rice separately. Cook chicken with onions, tomatoes and spices. Layer rice and chicken and bake.",
-                "rating": 4.6
+                "rating": 4.1
             },
             {
                 "id": 5,
-                "image": "https://i.ibb.co/b5MCG4y/samossa.jpg",
-                "name": "Samosa",
+                "name": "Gulab Jamun",
+                "image": "https://i.ibb.co/yNYYSDz/gulabjamun.jpg",
+                "method": "Frying and soaking in sugar syrup",
                 "ingredients": [
-                    "Potatoes",
-                    "Peas",
-                    "Spices",
-                    "Flour",
-                    "Oil"
+                    "Milk powder",
+                    "All-purpose flour",
+                    "Ghee",
+                    "Milk",
+                    "Baking powder",
+                    "Sugar",
+                    "Water",
+                    "Cardamom powder"
                 ],
-                "method": "Make dough with flour and water. Cook potatoes and peas with spices. Stuff dough with filling and fry into samosas.",
-                "rating": 4.3
+                "rating": 4.1
             }
         ],
-        "likes": 6000,
+        "likes": 1000,
         "desc": "Ranveer Brar - With over 20 years of culinary experience, Ranveer Brar is a well-known chef in India and abroad. He has hosted several cooking shows and authored several cookbooks."
     }
 ]
